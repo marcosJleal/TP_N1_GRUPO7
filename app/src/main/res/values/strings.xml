@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TP N°1</string>
+    <string name="btnEjercicio1">EJERCICIO 1</string>
+    <string name="btnEjercicio2">EJERCICIO 2</string>
+    <string name="Integrantes">Integrantes</string>
+    <string name="Integrante1">Facundo Resler</string>
+    <string name="Integrante2">Pedro Caceres</string>
+    <string name="Integrante3">Marcos Leal</string>
+    <string name="Integrante4">Lucas Franco Feldman</string>
+    <string name="Integrante5">Mateo de Benedictis Mazza</string>
+    <string name="txtPrimerNum">Primer número:</string>
+    <string name="txtSegundoNum">Segundo número</string>
+    <string name="btnCaclular">Calcular</string>
+    <string name="btnNum1">1</string>
+    <string name="btnNum2">2</string>
+    <string name="btnNum3">3</string>
+    <string name="btnNum4">4</string>
+    <string name="btnNum5">5</string>
+    <string name="btnNum6">6</string>
+    <string name="btnNum7">7</string>
+    <string name="btnNum8">8</string>
+    <string name="btnNum9">9</string>
+    <string name="btnNum0">0</string>
+    <string name="btnBorrar">BORRAR</string>
+    <string name="btnSuma">+</string>
+    <string name="btnResta">-</string>
+    <string name="btnDivision">/</string>
+    <string name="btnMultiplicacion">*</string>
+    <string name="btnIgual">=</string>
+    <string name="TituloSuma">Suma</string>
+    <string name="TituloCalculadora">Calculadora</string>
+    <string name="txtResultado">0</string>
+</resources>
