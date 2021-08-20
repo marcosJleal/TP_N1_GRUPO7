@@ -147,4 +147,16 @@ public class Calculadora extends AppCompatActivity {
             Toast.makeText(this, "Solo esta permitido cuentas con dos numeros", Toast.LENGTH_LONG).show();
         }
     }
+
+    public void btnDividir(View vw) {
+        if (valor1 == 0.0f) {
+            valor1 = Float.parseFloat(Resultado.getText().toString());
+            operador = "/";
+            Resultado.setText("0");
+        } else {
+            Toast.makeText(this, "Solo esta permitido cuentas con dos numeros", Toast.LENGTH_LONG).show();
+        }
+    }
+
+
 }
